@@ -1,0 +1,18 @@
+paths:
+  /api/auth/signup:
+    post:
+      summary: A registrarse
+      description: Ruta utilizada para crear un usuario
+      tags: 
+        - API Users
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/requestBodies/NewUser'
+      responses:
+        "200":
+          description: "Usuario creado"
+        "400":
+          description: "Parametros no validos"

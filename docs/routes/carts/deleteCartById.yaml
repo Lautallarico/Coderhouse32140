@@ -1,0 +1,19 @@
+paths:
+  /api/cart/{_id}:
+    delete:
+      summary: Borremos un carrito
+      description: Ruta utilizada para eliminar un carrito
+      tags: 
+        - API Carts
+      parameters:
+      - name: _id
+        in: path
+        description: ID del carrito a borrar
+        required: true
+        type: string
+        example: 641392a0cc41f0dbf64f0477
+      responses:
+        "204":
+          description: "Carrito eliminado con éxito"
+        "404":
+          description: "Carrito no encontrado"

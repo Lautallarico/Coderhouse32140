@@ -1,0 +1,47 @@
+#New User
+components:
+  requestBodies:
+    NewUser:
+      type: object
+      required:
+        - name
+        - lastname
+        - email
+        - password
+        - adress
+        - age
+        - celPhone
+      properties:
+        name:
+          type: string
+          description: Nombre del usuario
+        lastname:
+          type: string
+          description: Apellido del usuario
+        email:
+          type: string
+          description: Email del usuario
+        password:
+          type: string
+          description: Password del usuario
+        adress:
+          type: string
+          description: Domicilio del usuario
+        age:
+          type: number
+          description: Edad del usuario
+        celPhone:
+          type: number
+          description: Telefono del usuario
+        cart:
+          type: ObjectId
+          description: Carrito del usuario
+      example:
+        name: "Lautaro"
+        lastname: "Tallarico"
+        email: "lautaro@tallarico.com"
+        password: "234567"
+        adress: "calle falsa 123"
+        age: 35
+        celPhone: 18658496
+        cart: 640e01e6f86a3c6ee4d62701

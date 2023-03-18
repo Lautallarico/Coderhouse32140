@@ -1,0 +1,18 @@
+paths:
+  /api/cart:
+    post:
+      summary: Creamos un Carrito
+      description: Ruta utilizada para crear un Carrito
+      tags: 
+        - API Carts
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/requestBodies/NewCart'
+      responses:
+        "201":
+          description: "El carrito fue creado"
+        "400":
+          description: "Parametros no válidos"

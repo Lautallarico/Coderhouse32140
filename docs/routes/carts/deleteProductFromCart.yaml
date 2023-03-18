@@ -1,0 +1,26 @@
+
+paths:
+  /api/cart/{idCarrito}/products/{idProducto}:
+    delete:
+      summary: Borremos un producto del carrito
+      description: Ruta utilizada para eliminar un producto del carrito
+      tags: 
+        - API Carts
+      parameters:
+      - name: idCarrito
+        in: path
+        description: ID del carrito
+        required: true
+        type: string
+        example: 637c0b90dbd673682012354e
+      - name: idProducto
+        in: path
+        description: ID del producto a borrar
+        required: true
+        type: string
+        example: 63961bf86467226c3b20e7e2
+      responses:
+        "200":
+          description: "Producto eliminado del carrito"
+        "404":
+          description: "Carrito no encontrado"

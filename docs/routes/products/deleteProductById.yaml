@@ -1,0 +1,19 @@
+paths:
+  /api/products/{_id}:
+    delete:
+      summary: Borremos un producto
+      description: Ruta utilizada para eliminar un producto
+      tags: 
+        - API Products
+      parameters:
+      - name: _id
+        in: path
+        description: ID del producto a borrar
+        required: true
+        type: string
+        example: 6415d99e78303c0bf0421aa4
+      responses:
+        "200":
+          description: "El producto fue eliminado"
+        "404":
+          description: "Product not found"

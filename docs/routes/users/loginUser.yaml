@@ -1,0 +1,28 @@
+#Login User
+paths:
+  /api/auth/login:
+    post:
+      summary: Hagamos login
+      description: Ruta utilizada para realizar inicio de sesión
+      tags: 
+        - API Users
+      parameters:
+        - name: email
+          in: formData
+          description: Direccion del correo electronico
+          example: lautaro@tallarico.com
+          required: true
+          schema:
+            type: string
+        - name: password
+          in: formData
+          description: Contraseña del usuario
+          example: "234567"
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: Sesión iniciada correctamente
+        '401':
+          description: Credenciales inválidas

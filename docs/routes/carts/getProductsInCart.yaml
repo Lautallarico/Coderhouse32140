@@ -1,0 +1,23 @@
+paths:
+  /api/cart/{_id}/products:
+    get:
+      summary: Veamos que hay en cada carrito
+      description: Ruta utilizada para obtener los productos del carrito
+      tags: 
+        - API Carts
+      parameters:
+      - name: _id
+        in: path
+        description: ID del carrito a localizar
+        required: true
+        type: string
+        example: 637c0b90dbd673682012354e
+      responses:
+        "200":
+          description: "Carrito localizado"
+          content: 
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Cart'
+        "404":
+          description: "Carrito no encontrado"

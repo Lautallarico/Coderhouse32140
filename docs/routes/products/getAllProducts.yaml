@@ -1,0 +1,19 @@
+paths:
+  /api/products:
+    get:
+      summary: Veamos todos los productos
+      description: Ruta utilizada para obtener todos los productos
+      tags: 
+        - API Products
+      responses:
+        "200":
+          description: "All products"
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Product'
+        "404":
+          description: "Producto no encontrado"
+  

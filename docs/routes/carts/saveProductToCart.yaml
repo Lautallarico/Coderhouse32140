@@ -1,0 +1,27 @@
+paths:
+  /api/cart/{_id}/products:
+    post:
+      summary: Agreguemos productos al Carrito
+      description: Ruta utilizada para agregar un producto al Carrito
+      tags: 
+        - API Carts
+      parameters:
+      - name: _id
+        in: path
+        description: ID del carrito donde se van a guardar los productos
+        required: true
+        type: string
+        example: 637c0b90dbd673682012354e
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              ref: '#/components/requestBodies/NewProduct'
+              example:
+                productId: 63961bf86467226c3b20e7e2
+      responses:
+        "200":
+          description: "Carrito actualizado correctamente"
+        "404":
+          description: "Parametros no válidos"

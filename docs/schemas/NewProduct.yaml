@@ -1,0 +1,38 @@
+#New Product
+components:
+  requestBodies:
+    NewProduct:
+      type: object
+      required:
+        - title
+        - description
+        - code
+        - thumbnail
+        - price
+        - stock
+      properties:
+        title:
+          type: string
+          description: Nombre del producto
+        description:
+          type: string
+          description: Descripcion del producto
+        code:
+          type: string
+          description: Codigo del producto
+        thumbnail:
+          type: string
+          description: Url de la imagen del producto
+        price:
+          type: number
+          description: Precio del producto
+        stock:
+          type: number
+          description: Stock
+      example:
+        title: swagger
+        description: swagger product
+        code: sw1234
+        thumbnail: http://swaggerProduct.jpg
+        price: 232
+        stock: 8

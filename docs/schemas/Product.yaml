@@ -1,0 +1,48 @@
+#Product
+components:
+  schemas:
+    Product:
+      type: object
+      required: 
+        - _id
+        - title
+        - description
+        - code
+        - thumbnail
+        - price
+        - stock
+        - timestamp
+      properties:
+        _id:
+          type: ObjectId
+          description: ID autogenerado
+        title:
+          type: string
+          description: Nombre del producto
+        description:
+          type: string
+          description: Descripcion del producto
+        code:
+          type: string
+          description: Codigo del producto
+        thumbnail:
+          type: string
+          description: Url de la imagen del producto
+        price:
+          type: number
+          description: Precio del producto
+        stock:
+          type: number
+          description: Stock
+        timestamp:
+          type: string
+          description: Fecha de generacion del producto
+      example:
+        _id: 640e18353da5abe3c55fef04
+        title: Celular
+        description: Celula nokia
+        code: qiuh67
+        thumbnail: http://celunokia.jpg
+        price: 1000
+        stock: 2
+        timestamp: 12/03/2023 03:21:41
