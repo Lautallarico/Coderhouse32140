@@ -3185,3 +3185,725 @@
 {"level":30,"time":1679159499125,"pid":5536,"hostname":"Lautaro","msg":"http://localhost:8080/"}
 {"level":30,"time":1679159499125,"pid":5536,"hostname":"Lautaro","msg":"No es un cluster"}
 {"level":30,"time":1679159499126,"pid":5536,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431631251,"pid":6444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431631565,"pid":6444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431631565,"pid":6444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431631566,"pid":6444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431786016,"pid":13740,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431786267,"pid":13740,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431786267,"pid":13740,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431786268,"pid":13740,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431790172,"pid":14268,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431790432,"pid":14268,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431790432,"pid":14268,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431790432,"pid":14268,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431799005,"pid":10496,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431799258,"pid":10496,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431799258,"pid":10496,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431799259,"pid":10496,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431820776,"pid":15080,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431821035,"pid":15080,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431821035,"pid":15080,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431821036,"pid":15080,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431825575,"pid":9688,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431825898,"pid":9688,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431825898,"pid":9688,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431825899,"pid":9688,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431836006,"pid":8576,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431836270,"pid":8576,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431836270,"pid":8576,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431836270,"pid":8576,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431840306,"pid":3216,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431840547,"pid":3216,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431840547,"pid":3216,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431840547,"pid":3216,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431894640,"pid":6996,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431894889,"pid":6996,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431894889,"pid":6996,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431894889,"pid":6996,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431901235,"pid":15300,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431901528,"pid":15300,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431901528,"pid":15300,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431901528,"pid":15300,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431905155,"pid":13216,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431905410,"pid":13216,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431905410,"pid":13216,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431905411,"pid":13216,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431909048,"pid":11092,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431909295,"pid":11092,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431909295,"pid":11092,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431909296,"pid":11092,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431913656,"pid":11516,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431913954,"pid":11516,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431913954,"pid":11516,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431913955,"pid":11516,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431945327,"pid":13992,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431945580,"pid":13992,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431945580,"pid":13992,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431945580,"pid":13992,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431948765,"pid":6160,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431949015,"pid":6160,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431949015,"pid":6160,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431949016,"pid":6160,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431951685,"pid":2568,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431951930,"pid":2568,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431951930,"pid":2568,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431951930,"pid":2568,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431954456,"pid":6220,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431954704,"pid":6220,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431954704,"pid":6220,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431954705,"pid":6220,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431968795,"pid":6968,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431969055,"pid":6968,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431969055,"pid":6968,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431969056,"pid":6968,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679431973042,"pid":11304,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679431973311,"pid":11304,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679431973311,"pid":11304,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679431973312,"pid":11304,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432004683,"pid":10700,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432004974,"pid":10700,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432004974,"pid":10700,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432004975,"pid":10700,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432035514,"pid":3464,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432035901,"pid":3464,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432035901,"pid":3464,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432035902,"pid":3464,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432040667,"pid":8624,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432040942,"pid":8624,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432040942,"pid":8624,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432040943,"pid":8624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432063599,"pid":10100,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432063973,"pid":10100,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432063973,"pid":10100,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432063975,"pid":10100,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432143534,"pid":14064,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432143823,"pid":14064,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432143823,"pid":14064,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432143824,"pid":14064,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432152634,"pid":15280,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432152905,"pid":15280,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432152905,"pid":15280,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432152905,"pid":15280,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432156257,"pid":13600,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432156514,"pid":13600,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432156514,"pid":13600,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432156515,"pid":13600,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432162313,"pid":9800,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432162589,"pid":9800,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432162589,"pid":9800,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432162589,"pid":9800,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432200044,"pid":8656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432200300,"pid":8656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432200300,"pid":8656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432200301,"pid":8656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432202995,"pid":3040,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432203265,"pid":3040,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432203265,"pid":3040,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432203266,"pid":3040,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432209681,"pid":7964,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432209973,"pid":7964,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432209973,"pid":7964,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432209974,"pid":7964,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432218556,"pid":2096,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432218854,"pid":2096,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432218854,"pid":2096,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432218855,"pid":2096,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432225815,"pid":12072,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432226080,"pid":12072,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432226080,"pid":12072,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432226081,"pid":12072,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432228844,"pid":4516,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432229118,"pid":4516,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432229118,"pid":4516,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432229119,"pid":4516,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432231505,"pid":4656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432231773,"pid":4656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432231773,"pid":4656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432231774,"pid":4656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432235202,"pid":7680,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432235474,"pid":7680,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432235474,"pid":7680,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432235475,"pid":7680,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432244890,"pid":13360,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432245159,"pid":13360,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432245159,"pid":13360,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432245160,"pid":13360,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432250528,"pid":14444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432250840,"pid":14444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432250840,"pid":14444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432250841,"pid":14444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432260208,"pid":14444,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679432279248,"pid":14308,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432279512,"pid":14308,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432279512,"pid":14308,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432279516,"pid":14308,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432511674,"pid":14096,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432511957,"pid":14096,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432511957,"pid":14096,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432511958,"pid":14096,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432514072,"pid":12964,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432514312,"pid":12964,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432514312,"pid":12964,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432514313,"pid":12964,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432519006,"pid":11352,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432519247,"pid":11352,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432519247,"pid":11352,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432519248,"pid":11352,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432522890,"pid":7052,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432523149,"pid":7052,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432523149,"pid":7052,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432523150,"pid":7052,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432525834,"pid":13496,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432526069,"pid":13496,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432526069,"pid":13496,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432526069,"pid":13496,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432529645,"pid":1996,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432529891,"pid":1996,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432529891,"pid":1996,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432529892,"pid":1996,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432532777,"pid":5980,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432533017,"pid":5980,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432533017,"pid":5980,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432533017,"pid":5980,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432554264,"pid":11516,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432554507,"pid":11516,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432554507,"pid":11516,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432554507,"pid":11516,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432632125,"pid":11516,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679432644513,"pid":15116,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432644758,"pid":15116,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432644758,"pid":15116,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432644759,"pid":15116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432678781,"pid":12716,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432679018,"pid":12716,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432679018,"pid":12716,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432679019,"pid":12716,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432689328,"pid":14928,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432689568,"pid":14928,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432689568,"pid":14928,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432689569,"pid":14928,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432692266,"pid":9948,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432692505,"pid":9948,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432692505,"pid":9948,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432692506,"pid":9948,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432702262,"pid":9948,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679432768451,"pid":1524,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432768683,"pid":1524,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432768683,"pid":1524,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432768683,"pid":1524,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432776380,"pid":1524,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679432813664,"pid":15096,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432813902,"pid":15096,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432813902,"pid":15096,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432813903,"pid":15096,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432816621,"pid":11224,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432816855,"pid":11224,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432816855,"pid":11224,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432816856,"pid":11224,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432823604,"pid":11224,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679432834902,"pid":9956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432835140,"pid":9956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432835140,"pid":9956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432835140,"pid":9956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432890463,"pid":14472,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432890693,"pid":14472,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432890694,"pid":14472,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432890694,"pid":14472,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432893517,"pid":12864,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432893781,"pid":12864,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432893781,"pid":12864,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432893781,"pid":12864,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432895843,"pid":10108,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432896103,"pid":10108,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432896103,"pid":10108,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432896104,"pid":10108,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432898367,"pid":10424,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432898603,"pid":10424,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432898603,"pid":10424,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432898604,"pid":10424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432946671,"pid":5892,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432946926,"pid":5892,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432946926,"pid":5892,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432946927,"pid":5892,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679432950075,"pid":7416,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679432950319,"pid":7416,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679432950319,"pid":7416,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679432950320,"pid":7416,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679432974790,"pid":7416,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433005583,"pid":10624,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433005836,"pid":10624,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433005836,"pid":10624,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433005837,"pid":10624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433007150,"pid":12520,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433007394,"pid":12520,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433007394,"pid":12520,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433007395,"pid":12520,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433014652,"pid":3352,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433014923,"pid":3352,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433014923,"pid":3352,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433014924,"pid":3352,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433017156,"pid":9528,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433017410,"pid":9528,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433017410,"pid":9528,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433017411,"pid":9528,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433018938,"pid":11788,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433019187,"pid":11788,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433019187,"pid":11788,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433019187,"pid":11788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433025128,"pid":11788,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433374224,"pid":12268,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433374480,"pid":12268,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433374480,"pid":12268,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433374480,"pid":12268,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433379267,"pid":1524,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433379522,"pid":1524,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433379522,"pid":1524,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433379523,"pid":1524,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433392886,"pid":1524,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433427284,"pid":7444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433427535,"pid":7444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433427535,"pid":7444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433427535,"pid":7444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433468073,"pid":4484,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433468312,"pid":4484,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433468312,"pid":4484,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433468313,"pid":4484,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433485200,"pid":4484,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433512583,"pid":13940,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433512825,"pid":13940,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433512825,"pid":13940,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433512826,"pid":13940,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433517674,"pid":10468,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433517927,"pid":10468,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433517928,"pid":10468,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433517928,"pid":10468,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433521414,"pid":10468,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433572036,"pid":1352,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433572296,"pid":1352,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433572296,"pid":1352,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433572297,"pid":1352,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433577734,"pid":1352,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433631380,"pid":6644,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433631623,"pid":6644,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433631623,"pid":6644,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433631623,"pid":6644,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433634817,"pid":14804,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433635058,"pid":14804,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433635058,"pid":14804,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433635058,"pid":14804,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433638231,"pid":14804,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433768259,"pid":3884,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433768515,"pid":3884,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433768515,"pid":3884,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433768516,"pid":3884,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433790495,"pid":68,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433790745,"pid":68,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433790745,"pid":68,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433790745,"pid":68,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433806666,"pid":13440,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433806959,"pid":13440,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433806959,"pid":13440,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433806960,"pid":13440,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433809059,"pid":1632,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433809320,"pid":1632,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433809320,"pid":1632,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433809321,"pid":1632,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679433812896,"pid":1632,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679433872079,"pid":6200,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433872327,"pid":6200,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433872327,"pid":6200,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433872328,"pid":6200,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433882113,"pid":13020,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433882360,"pid":13020,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433882360,"pid":13020,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433882360,"pid":13020,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433885061,"pid":12540,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433885298,"pid":12540,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433885298,"pid":12540,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433885299,"pid":12540,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433889388,"pid":11212,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433889638,"pid":11212,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433889638,"pid":11212,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433889639,"pid":11212,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433891425,"pid":5360,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433891664,"pid":5360,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433891664,"pid":5360,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433891665,"pid":5360,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433900347,"pid":9852,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433900600,"pid":9852,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433900600,"pid":9852,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433900600,"pid":9852,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":40,"time":1679433904694,"pid":9852,"hostname":"Lautaro","msg":"Password or user not valid user"}
+{"level":30,"time":1679433949103,"pid":1216,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433949346,"pid":1216,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433949346,"pid":1216,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433949346,"pid":1216,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":40,"time":1679433959879,"pid":1216,"hostname":"Lautaro","msg":"Password or user not valid user"}
+{"level":30,"time":1679433969694,"pid":13148,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433969934,"pid":13148,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433969934,"pid":13148,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433969935,"pid":13148,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":40,"time":1679433982797,"pid":13148,"hostname":"Lautaro","msg":"Password or user not valid user"}
+{"level":30,"time":1679433995731,"pid":7244,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433995972,"pid":7244,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433995972,"pid":7244,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433995973,"pid":7244,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679433999428,"pid":5740,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679433999684,"pid":5740,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679433999684,"pid":5740,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679433999684,"pid":5740,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434003113,"pid":15216,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434003349,"pid":15216,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434003349,"pid":15216,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434003350,"pid":15216,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434006352,"pid":2368,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434006598,"pid":2368,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434006598,"pid":2368,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434006598,"pid":2368,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434009768,"pid":9024,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434010020,"pid":9024,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434010020,"pid":9024,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434010020,"pid":9024,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434017246,"pid":12936,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434017492,"pid":12936,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434017492,"pid":12936,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434017493,"pid":12936,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":40,"time":1679434022898,"pid":12936,"hostname":"Lautaro","msg":"Password or user not valid user"}
+{"level":50,"time":1679434022898,"pid":12936,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679434211000,"pid":8768,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434211271,"pid":8768,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434211271,"pid":8768,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434211272,"pid":8768,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434429529,"pid":7444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434429767,"pid":7444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434429767,"pid":7444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434429768,"pid":7444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434626562,"pid":11352,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434626804,"pid":11352,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434626804,"pid":11352,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434626805,"pid":11352,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434628497,"pid":2192,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434628765,"pid":2192,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434628765,"pid":2192,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434628765,"pid":2192,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434650287,"pid":8908,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434650529,"pid":8908,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434650529,"pid":8908,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434650530,"pid":8908,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434654540,"pid":11980,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434654801,"pid":11980,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434654801,"pid":11980,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434654801,"pid":11980,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434657261,"pid":1976,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434657521,"pid":1976,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434657521,"pid":1976,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434657522,"pid":1976,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679434664393,"pid":1976,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679434740377,"pid":10584,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434740610,"pid":10584,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434740610,"pid":10584,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434740610,"pid":10584,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434830252,"pid":4672,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434830521,"pid":4672,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434830521,"pid":4672,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434830522,"pid":4672,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434858169,"pid":8336,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434858420,"pid":8336,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434858420,"pid":8336,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434858421,"pid":8336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434867294,"pid":4656,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434867540,"pid":4656,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434867540,"pid":4656,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434867541,"pid":4656,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434883585,"pid":2600,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434883830,"pid":2600,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434883830,"pid":2600,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434883830,"pid":2600,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434889366,"pid":12168,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434889606,"pid":12168,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434889606,"pid":12168,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434889606,"pid":12168,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434896253,"pid":7716,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434896490,"pid":7716,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434896490,"pid":7716,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434896490,"pid":7716,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434898343,"pid":8744,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434898585,"pid":8744,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434898585,"pid":8744,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434898586,"pid":8744,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434903633,"pid":9324,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434903893,"pid":9324,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434903893,"pid":9324,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434903894,"pid":9324,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434912366,"pid":5104,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434912602,"pid":5104,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434912602,"pid":5104,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434912603,"pid":5104,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434915397,"pid":7044,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434915629,"pid":7044,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434915629,"pid":7044,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434915629,"pid":7044,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434917163,"pid":3908,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434917405,"pid":3908,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434917405,"pid":3908,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434917405,"pid":3908,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679434921750,"pid":14388,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679434921990,"pid":14388,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679434921990,"pid":14388,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679434921991,"pid":14388,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679434942055,"pid":14388,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679435189580,"pid":9340,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679435189846,"pid":9340,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679435189846,"pid":9340,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679435189847,"pid":9340,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679435208287,"pid":9340,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679435217846,"pid":8648,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679435218118,"pid":8648,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679435218118,"pid":8648,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679435218119,"pid":8648,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679435339244,"pid":4108,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679435339508,"pid":4108,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679435339508,"pid":4108,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679435339508,"pid":4108,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679436942170,"pid":8204,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679436942417,"pid":8204,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679436942417,"pid":8204,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679436942417,"pid":8204,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679436988832,"pid":8204,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679437018422,"pid":2696,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437018671,"pid":2696,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437018671,"pid":2696,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437018672,"pid":2696,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679437021704,"pid":9576,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437021946,"pid":9576,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437021946,"pid":9576,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437021947,"pid":9576,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679437031140,"pid":9576,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679437044236,"pid":9948,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437044484,"pid":9948,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437044484,"pid":9948,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437044484,"pid":9948,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679437046911,"pid":2948,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437047154,"pid":2948,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437047154,"pid":2948,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437047154,"pid":2948,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679437448977,"pid":2948,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679437512116,"pid":5040,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437512378,"pid":5040,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437512378,"pid":5040,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437512379,"pid":5040,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679437516392,"pid":5040,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679437602957,"pid":8860,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437603204,"pid":8860,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437603204,"pid":8860,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437603205,"pid":8860,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679437880041,"pid":13828,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437880280,"pid":13828,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437880280,"pid":13828,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437880280,"pid":13828,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679437947671,"pid":5504,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437947912,"pid":5504,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437947912,"pid":5504,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437947913,"pid":5504,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679437960964,"pid":8552,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679437961205,"pid":8552,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679437961205,"pid":8552,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679437961206,"pid":8552,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679437971212,"pid":8552,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679438012748,"pid":14920,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438012993,"pid":14920,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438012993,"pid":14920,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438012994,"pid":14920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438017630,"pid":7788,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438017881,"pid":7788,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438017881,"pid":7788,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438017881,"pid":7788,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438117695,"pid":7240,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438117962,"pid":7240,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438117962,"pid":7240,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438117963,"pid":7240,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438128562,"pid":11116,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438128805,"pid":11116,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438128805,"pid":11116,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438128805,"pid":11116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679438144416,"pid":11116,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679438157213,"pid":10836,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438157480,"pid":10836,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438157480,"pid":10836,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438157481,"pid":10836,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679438159456,"pid":10836,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679438290880,"pid":9156,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438291114,"pid":9156,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438291114,"pid":9156,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438291114,"pid":9156,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438374389,"pid":3368,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438374645,"pid":3368,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438374645,"pid":3368,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438374645,"pid":3368,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438381770,"pid":9208,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438382020,"pid":9208,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438382020,"pid":9208,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438382020,"pid":9208,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438406984,"pid":7360,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438407227,"pid":7360,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438407227,"pid":7360,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438407228,"pid":7360,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438429951,"pid":5796,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438430198,"pid":5796,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438430198,"pid":5796,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438430199,"pid":5796,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438488340,"pid":10072,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438488585,"pid":10072,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438488585,"pid":10072,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438488585,"pid":10072,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679438494855,"pid":10072,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679438505685,"pid":13624,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438505940,"pid":13624,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438505940,"pid":13624,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438505941,"pid":13624,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438510185,"pid":7400,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438510432,"pid":7400,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438510432,"pid":7400,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438510433,"pid":7400,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438523319,"pid":6560,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438523578,"pid":6560,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438523578,"pid":6560,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438523579,"pid":6560,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438525922,"pid":15856,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438526164,"pid":15856,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438526164,"pid":15856,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438526165,"pid":15856,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438527926,"pid":15868,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438528185,"pid":15868,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438528185,"pid":15868,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438528186,"pid":15868,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438699143,"pid":8844,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438699385,"pid":8844,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438699385,"pid":8844,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438699385,"pid":8844,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438702269,"pid":16116,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438702509,"pid":16116,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438702509,"pid":16116,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438702510,"pid":16116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438707567,"pid":13496,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438707807,"pid":13496,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438707807,"pid":13496,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438707808,"pid":13496,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438749022,"pid":6004,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438749262,"pid":6004,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438749262,"pid":6004,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438749263,"pid":6004,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438757252,"pid":12800,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438757497,"pid":12800,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438757497,"pid":12800,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438757498,"pid":12800,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438847601,"pid":1532,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438847843,"pid":1532,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438847843,"pid":1532,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438847843,"pid":1532,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679438857392,"pid":13028,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679438857637,"pid":13028,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679438857637,"pid":13028,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679438857638,"pid":13028,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439185503,"pid":12716,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439185765,"pid":12716,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439185766,"pid":12716,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439185766,"pid":12716,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439187864,"pid":14096,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439188112,"pid":14096,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439188112,"pid":14096,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439188113,"pid":14096,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":50,"time":1679439208712,"pid":14096,"hostname":"Lautaro","msg":"error from middlewares/passportAuth - LocalStrategy"}
+{"level":30,"time":1679439226456,"pid":15244,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439226708,"pid":15244,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439226708,"pid":15244,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439226708,"pid":15244,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439240208,"pid":14140,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439240479,"pid":14140,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439240479,"pid":14140,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439240480,"pid":14140,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439270668,"pid":14296,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439270926,"pid":14296,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439270926,"pid":14296,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439270927,"pid":14296,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439286336,"pid":3384,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439286589,"pid":3384,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439286589,"pid":3384,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439286590,"pid":3384,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439288856,"pid":14068,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439289090,"pid":14068,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439289090,"pid":14068,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439289091,"pid":14068,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439314997,"pid":14992,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439315240,"pid":14992,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439315240,"pid":14992,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439315240,"pid":14992,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439711749,"pid":8424,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439712000,"pid":8424,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439712000,"pid":8424,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439712000,"pid":8424,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439713519,"pid":16172,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439713830,"pid":16172,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439713830,"pid":16172,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439713832,"pid":16172,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439726116,"pid":13632,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439726372,"pid":13632,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439726372,"pid":13632,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439726372,"pid":13632,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439766420,"pid":14444,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439766667,"pid":14444,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439766667,"pid":14444,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439766667,"pid":14444,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439768590,"pid":8784,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439768833,"pid":8784,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439768833,"pid":8784,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439768833,"pid":8784,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439790419,"pid":1956,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439790668,"pid":1956,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439790668,"pid":1956,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439790669,"pid":1956,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439819639,"pid":6336,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439819883,"pid":6336,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439819883,"pid":6336,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439819883,"pid":6336,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439834168,"pid":1388,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439834415,"pid":1388,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439834415,"pid":1388,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439834415,"pid":1388,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439896055,"pid":9568,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439896297,"pid":9568,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439896297,"pid":9568,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439896298,"pid":9568,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439975789,"pid":6116,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439976025,"pid":6116,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439976025,"pid":6116,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439976025,"pid":6116,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439981568,"pid":14920,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439981828,"pid":14920,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439981828,"pid":14920,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439981829,"pid":14920,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439983124,"pid":9896,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439983376,"pid":9896,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439983376,"pid":9896,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439983376,"pid":9896,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679439986927,"pid":15492,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679439987182,"pid":15492,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679439987182,"pid":15492,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679439987183,"pid":15492,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679440052022,"pid":9464,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679440052263,"pid":9464,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679440052263,"pid":9464,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679440052264,"pid":9464,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679440070327,"pid":15280,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679440070591,"pid":15280,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679440070591,"pid":15280,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679440070592,"pid":15280,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679440085965,"pid":15288,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679440086213,"pid":15288,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679440086213,"pid":15288,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679440086214,"pid":15288,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679440092277,"pid":6468,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679440092518,"pid":6468,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679440092518,"pid":6468,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679440092518,"pid":6468,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}

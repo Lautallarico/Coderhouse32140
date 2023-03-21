@@ -6,21 +6,15 @@ paths:
       description: Ruta utilizada para realizar inicio de sesión
       tags: 
         - API Users
-      parameters:
-        - name: email
-          in: formData
-          description: Direccion del correo electronico
-          example: lautaro@tallarico.com
-          required: true
-          schema:
-            type: string
-        - name: password
-          in: formData
-          description: Contraseña del usuario
-          example: "234567"
-          required: true
-          schema:
-            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              ref: '#/components/requestBodies/NewUser'
+              example:
+                email: pepe@pepe
+                password: pepe123
       responses:
         '200':
           description: Sesión iniciada correctamente

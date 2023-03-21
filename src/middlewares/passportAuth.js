@@ -3,7 +3,6 @@ import passport from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
 import { Strategy as GithubStrategy } from "passport-github2";
 import { UserDao } from "../dao/index.js";
-// import { ERRORS_UTILS } from '../utils/index.js';
 import { AuthControllers } from '../controllers/AuthController/index.js';
 
 const init = () => {

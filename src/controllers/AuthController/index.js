@@ -45,13 +45,12 @@ const signUp = async (req, res, cb) => {
     }
 }
 
-const login = async (email, password, done) => {
+const login = async (req, email, password, done) => {
     try {
-        console.log("email: ", email);
-        console.log("password: ", password);
+        // console.log("email: ", email);
+        // console.log("password: ", password);
         if (!email || !password) return done(null, false, { message: "Password or user not valid user" })
         const user = await UserDao.getOne({ email: email })
-        console.log(user);
 
         if (!user) {
             logger.warn(`Password or user not valid user`);
@@ -73,9 +72,10 @@ const login = async (email, password, done) => {
             age: user.age,
             celPhone: user.celPhone
         };
-
+       
         // res.send({ success: true, data: userResponse })
         return done(null, userResponse, { message: "login sucessful" })
+
 
     } catch (error) {
         // res.send({ success: false, message: "login fail" })
