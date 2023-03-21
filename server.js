@@ -46,20 +46,20 @@ app.use(session({
 
 
 // **********************************************************************************************************************
-const corsMiddleware = (req, res, next) => {
-    res.header('Access-Control-Allow-Origin', '*'); // Permite cualquier origen
-    res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS'); // Métodos HTTP permitidos
-    res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With'); // Cabeceras permitidas
+// const corsMiddleware = (req, res, next) => {
+//     res.header('Access-Control-Allow-Origin', '*'); // Permite cualquier origen
+//     res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS'); // Métodos HTTP permitidos
+//     res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With'); // Cabeceras permitidas
     
-    // Si la petición es OPTIONS, envía una respuesta con código de estado 200 (OK)
-    if (req.method === 'OPTIONS') {
-      res.send(200);
-    } else {
-      next();
-    }
-  };
+//     // Si la petición es OPTIONS, envía una respuesta con código de estado 200 (OK)
+//     if (req.method === 'OPTIONS') {
+//       res.send(200);
+//     } else {
+//       next();
+//     }
+//   };
 
-app.use(corsMiddleware)
+// app.use(corsMiddleware)
 // ***************************************************************************************************************************
 
 
