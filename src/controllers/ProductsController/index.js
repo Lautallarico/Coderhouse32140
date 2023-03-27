@@ -42,9 +42,9 @@ const createProduct = async (req, res, cb) => {
         const { title, description, code, price, thumbnail, stock } = req.body
 
         const product = await JOI_VALIDATOR.product.validateAsync({ title, description, code, price, thumbnail, stock, timestamp: DATE_UTILS.getTimestamp(), })
-        await ProductDao.saveProduct(product)
+        const savedProduct = await ProductDao.saveProduct(product)
 
-        res.status(200).send({ success: true, data: product, message: "El producto fue creado con éxito" })
+        res.status(200).send({ success: true, data: savedProduct, message: "El producto fue creado con éxito" })
 
     } catch (error) {
 

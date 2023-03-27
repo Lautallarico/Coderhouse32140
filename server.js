@@ -2,7 +2,7 @@
 import express from 'express'
 import swaggerJSDoc from 'swagger-jsdoc'
 import swaggerUiExpress from 'swagger-ui-express'
-import { ProductRouter, CartRouter, AuthRouter, InfoRouter, RandomRouter, HomeRouter } from './src/routes/index.js'
+import { ProductRouter, CartRouter, AuthRouter, InfoRouter, RandomRouter, HomeRouter, MessageRouter, ChatRouter } from './src/routes/index.js'
 import cors from 'cors'
 
 import { PassportAuth } from './src/middlewares/index.js'
@@ -44,26 +44,6 @@ app.use(session({
 }))
 
 
-
-// **********************************************************************************************************************
-// const corsMiddleware = (req, res, next) => {
-//     res.header('Access-Control-Allow-Origin', '*'); // Permite cualquier origen
-//     res.header('Access-Control-Allow-Methods', 'GET, POST, PUT, DELETE, OPTIONS'); // Métodos HTTP permitidos
-//     res.header('Access-Control-Allow-Headers', 'Content-Type, Authorization, Content-Length, X-Requested-With'); // Cabeceras permitidas
-    
-//     // Si la petición es OPTIONS, envía una respuesta con código de estado 200 (OK)
-//     if (req.method === 'OPTIONS') {
-//       res.send(200);
-//     } else {
-//       next();
-//     }
-//   };
-
-// app.use(corsMiddleware)
-// ***************************************************************************************************************************
-
-
-
 app.use(passport.initialize())
 app.use(passport.session())
 
@@ -81,6 +61,8 @@ app.use('/api/products', ProductRouter)
 app.use('/api/cart', CartRouter)
 app.use('/api/randoms', RandomRouter)
 app.use('/api/info', InfoRouter)
+app.use('/api/messages', MessageRouter)
+app.use('/api/chats', ChatRouter)
 
 
 const args = parseArgs(process.argv.slice(2))

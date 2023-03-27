@@ -1,0 +1,18 @@
+paths:
+  /api/chats:
+    post:
+      summary: Creamos un Chat
+      description: Ruta utilizada para crear un Chat
+      tags: 
+        - API Chats
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/requestBodies/NewChat'
+      responses:
+        "201":
+          description: "El chat fue creado con éxito"
+        "400":
+          description: "Parametros no válidos"

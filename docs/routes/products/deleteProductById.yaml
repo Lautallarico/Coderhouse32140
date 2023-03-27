@@ -2,7 +2,7 @@ paths:
   /api/products/{_id}:
     delete:
       summary: Borremos un producto
-      description: Ruta utilizada para eliminar un producto
+      description: Ruta utilizada para eliminar un producto, si queres podes usar el producto que generaste en el punto anterior
       tags: 
         - API Products
       parameters:
@@ -11,7 +11,7 @@ paths:
         description: ID del producto a borrar
         required: true
         type: string
-        example: 6415d99e78303c0bf0421aa4
+        example: 641b6768b7d2bbdad0ffcd72
       responses:
         "200":
           description: "El producto fue eliminado"

@@ -1,6 +1,5 @@
 import { Router } from "express"
 import { CartController } from "../../controllers/index.js"
-// import { IncorrectRoute } from "../../middlewares/index.js"
 
 const router = Router()
 
@@ -11,6 +10,6 @@ router.delete('/:cartId/products/:id_prod', CartController.deleteProductFromCart
 router.get('/:cartId/products', CartController.productsInCart)
 router.get('/:id', CartController.cartById)
 router.get('/:id/buyCart', CartController.buyCart)
-// router.get('*', IncorrectRoute.errorRoutes)
+
 
 export { router as CartRouter }

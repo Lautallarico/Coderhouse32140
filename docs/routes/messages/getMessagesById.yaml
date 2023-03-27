@@ -1,0 +1,23 @@
+paths:
+  /api/messages/{_id}:
+    get:
+      summary: Veamos un mensaje
+      description: Ruta utilizada para obtener un mensaje por ID
+      tags: 
+        - API Messages
+      parameters:
+      - name: _id
+        in: path
+        description: ID del mensaje a buscar
+        required: true
+        type: string
+        example: 6422106e4d5d0d5db60f3bce
+      responses:
+        "200":
+          description: "Mensaje localizado"
+          content: 
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Message'
+        "404":
+          description: "Mensaje no encontrado"

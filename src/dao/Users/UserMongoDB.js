@@ -10,7 +10,7 @@ export class UsersMongo extends ContainerMongoDB {
 
     constructor() {
 
-        if(typeof UsersMongo.instance === 'object'){
+        if (typeof UsersMongo.instance === 'object') {
             return UsersMongo.instance
         }
 
@@ -18,7 +18,7 @@ export class UsersMongo extends ContainerMongoDB {
             name: UserModel.UserCollection,
             schema: UserModel.UserSchema,
         });
-        
+
         UsersMongo.instance = this
         return this
     }
@@ -52,6 +52,14 @@ export class UsersMongo extends ContainerMongoDB {
             return await super.getOne(options)
         } catch (error) {
             logger.error(`error in getOneUser-UsersMongo - Error: `, error)
+        }
+    }
+
+    async deleteUserById(id) {
+        try {
+            return await super.deleteById(id)
+        } catch (error) {
+            logger.error(`error in deleteUserById-UsersMongo - Error: `, error)
         }
     }
 }

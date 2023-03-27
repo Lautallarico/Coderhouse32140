@@ -1,0 +1,23 @@
+#New Cart
+components:
+  requestBodies:
+    NewChat:
+      type: object
+      required:
+        - _id
+        - timestamp
+        - messages
+      properties:
+        _id:
+          type: ObjectId
+          description: ID autogenerado
+        timestamp:
+          type: string
+          description: Fecha de generacion del Chat
+        products:
+          type: array
+          description: Codigo del mensaje
+      example:
+        _id: 637c0b90dbd673682012354e
+        timestamp: 21/11/2022 08:36:48
+        messages: ["63961bf86467226c3b20e7e2"]

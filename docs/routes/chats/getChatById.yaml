@@ -1,0 +1,23 @@
+paths:
+  /api/chats/{_id}:
+    get:
+      summary: Localizamos un chat
+      description: Ruta utilizada para obtener el chat
+      tags: 
+        - API Chats
+      parameters:
+      - name: _id
+        in: path
+        description: ID del chat a localizar
+        required: true
+        type: string
+        example: 64221ca064b3d263fbf863d7
+      responses:
+        "200":
+          description: "Chat localizado"
+          content: 
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Chat'
+        "404":
+          description: "Chat no encontrado"

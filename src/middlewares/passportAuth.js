@@ -1,9 +1,10 @@
-import { config } from '../config/index.js';
+
 import passport from "passport";
 import { Strategy as LocalStrategy } from "passport-local";
-import { Strategy as GithubStrategy } from "passport-github2";
 import { UserDao } from "../dao/index.js";
-import { AuthControllers } from '../controllers/AuthController/index.js';
+import logger from '../loggers/loggers.js';
+import { BCRYPT_VALIDATION } from '../utils/index.js'
+
 
 const init = () => {
 
@@ -20,14 +21,32 @@ const init = () => {
         usernameField: 'email',
         passwordField: 'password',
         passReqToCallback: true,
-    }, AuthControllers.login))
+    }, async (req, email, password, done) => {
+        try {
 
-    passport.use('github', new GithubStrategy({
-        clientID: config.PASSPORT.GITHUB.GITHUB_CLIENT_ID,
-        clientSecret: config.PASSPORT.GITHUB.GITHUB_CLIENT_SECRET,
-        callbackURL: config.PASSPORT.GITHUB.GITHUB_CLIENT_CALLBACK_URL,
-        scope: ['user:email']
-    }, AuthControllers.githubLogin))
+            if (!email || !password) return done(null, false, { message: "Password or user not valid user" })
+            const user = await UserDao.getOne({ email: email })
+
+            if (!user) {
+                logger.warn(`Password or user not valid user`);
+                return done(null, false, { message: "Password or user not valid user" })
+            }
+
+            if (BCRYPT_VALIDATION.isValidPassword(password, user) != true) {
+                logger.warn(`Password or user not valid pass`);
+                return done(null, false, { message: "Password or user not valid user" })
+            }
+
+            return done(null, user)
+
+
+        } catch (error) {
+            
+            logger.error(`error from middlewares/passportAuth - LocalStrategy`, error)
+            return done(null, error, { message: "error catch" })
+        }
+    }))
+
 }
 
 export const PassportAuth = {

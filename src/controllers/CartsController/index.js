@@ -137,7 +137,6 @@ const buyCart = async (req, res) => {
 
         let subject = 'Nuevo pedido!'
         let mailTo = config.MAIL.USER
-
         let listProducts = cart.products.map(({ title }) => (
             `
             <li>${title}</li>

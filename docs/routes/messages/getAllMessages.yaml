@@ -1,0 +1,18 @@
+paths:
+  /api/messages:
+    get:
+      summary: Veamos todos los mensajes
+      description: Ruta utilizada para obtener todos los mensajes
+      tags: 
+        - API Messages
+      responses:
+        "200":
+          description: "All messages"
+          content: 
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Message'
+        "404":
+          description: "Mensajes no encontrados"

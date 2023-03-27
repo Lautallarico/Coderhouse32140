@@ -5,4 +5,8 @@ tags:
     description: API de carritos 
   - name: API Users
     description: API de usuarios
+  - name: API Messages
+    description: API de mensajes
+  - name: API Chats
+    description: API de chats 
   

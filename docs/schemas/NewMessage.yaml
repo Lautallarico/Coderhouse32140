@@ -1,0 +1,13 @@
+#New Product
+components:
+  requestBodies:
+    NewProduct:
+      type: object
+      required:
+        - text
+      properties:
+        text:
+          type: string
+          description: Mensaje que se envia
+      example:
+        text: Hola como estas

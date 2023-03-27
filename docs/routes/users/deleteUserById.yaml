@@ -1,0 +1,19 @@
+paths:
+  /api/auth/{_id}:
+    delete:
+      summary: Borremos un usuario
+      description: Ruta utilizada para eliminar un usuario, si queres podes usar el usuario que generaste en el punto anterior
+      tags: 
+        - API Users
+      parameters:
+      - name: _id
+        in: path
+        description: ID del usuario a borrar
+        required: true
+        type: string
+        example: 641b66efe5e9a9c9786adf03
+      responses:
+        "200":
+          description: "El usuario fue eliminado"
+        "404":
+          description: "Usuario no encotrado"

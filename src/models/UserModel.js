@@ -16,7 +16,8 @@ const UserSchema = new Schema(
         adress: String,
         age: Number,
         celPhone: Number,
-        cart: { type: Schema.Types.ObjectId, ref: 'carts' }
+        cart: { type: Schema.Types.ObjectId, ref: 'carts' },
+        chats: { type: Schema.Types.ObjectId, ref: 'chats' }
     },
     { virtuals: true }
 )

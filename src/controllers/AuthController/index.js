@@ -1,5 +1,5 @@
-import { UserDao, CartDao } from "../../dao/index.js";
-import { BCRYPT_VALIDATION, EMAIL_UTILS } from "../../utils/index.js";
+import { UserDao, CartDao, ChatDao } from "../../dao/index.js";
+import { BCRYPT_VALIDATION, EMAIL_UTILS, ERRORS_UTILS } from "../../utils/index.js";
 import logger from '../../loggers/loggers.js'
 
 const signUp = async (req, res, cb) => {
@@ -16,7 +16,8 @@ const signUp = async (req, res, cb) => {
             return res.status(200).send({ success: true })
         }
         const userCart = await CartDao.saveCart()
-        const newUser = await UserDao.saveUser({ name, lastname, email, password: BCRYPT_VALIDATION.hashPassword(password), adress, age, celPhone, cart: userCart.id })
+        const userChat = await ChatDao.saveChat()
+        const newUser = await UserDao.saveUser({ name, lastname, email, password: BCRYPT_VALIDATION.hashPassword(password), adress, age, celPhone, cart: userCart.id, chats: userChat.id })
 
         let subject = 'Nuevo usuario creado'
         let mailTo = 'lauta.tallarico@gmail.com'
@@ -35,104 +36,46 @@ const signUp = async (req, res, cb) => {
 
         await EMAIL_UTILS.sendEmail(mailTo, subject, html)
 
-        res.status(200).send({ success: true, data: newUser })
+
+        res.status(200).send({ success: true, user: newUser, message: "Usuario creado" })
         return cb(null, newUser)
 
     } catch (error) {
 
-        logger.error(`error from AuthRouter-Post`);
-        res.status(400).send({ success: false, message: "sign up fail" })
+        logger.error(`error from AuthRouter-Post: ${error}`);
+        res.status(400).send({ success: false, message: "Parametros no validos" })
     }
 }
 
-const login = async (req, email, password, done) => {
+const login = async (req, res) => {
     try {
-        // console.log("email: ", email);
-        // console.log("password: ", password);
-        if (!email || !password) return done(null, false, { message: "Password or user not valid user" })
-        const user = await UserDao.getOne({ email: email })
+
+        const user = req.user
+        res.status(200).send({ success: true, user: user, message: "Sesión iniciada correctamente" })
+
+    } catch (error) {
+
+        logger.error(`error from AuthRouter-login: ${error}`)
+        res.status(401).send({ success: false, message: "Credenciales incorrectas" })
+
+    }
+}
+
+const deleteUser = async (req, res) => {
+    try {
+        const { id } = req.params
+        const user = await UserDao.deleteUserById(id)
 
         if (!user) {
-            logger.warn(`Password or user not valid user`);
-            return done(null, false, { message: "Password or user not valid user" })
+            return res.status(404).send({ success: false, data: undefined, message: ERRORS_UTILS.USERS.NO_USER_OR_PASSWORD })
         }
 
-        if (BCRYPT_VALIDATION.isValidPassword(password, user) != true) {
-            logger.warn(`Password or user not valid pass`);
-            return done(null, false, { message: "Password or user not valid user" })
-        }
-
-        const userResponse = {
-            id: user._id,
-            email: user.email,
-            cart: user.cart,
-            name: user.name,
-            lastname: user.lastname,
-            adress: user.adress,
-            age: user.age,
-            celPhone: user.celPhone
-        };
-       
-        // res.send({ success: true, data: userResponse })
-        return done(null, userResponse, { message: "login sucessful" })
-
-
+        res.status(200).send({ success: true, message: "Usuario eliminado" })
     } catch (error) {
-        // res.send({ success: false, message: "login fail" })
-        logger.error(`error from middlewares/passportAuth - LocalStrategy`, error)
-        return done(null, error, { message: "error catch" })
+        logger.error(`error dorm deleteUser: ${error}`)
+        res.status(404).send({ success: false, data: undefined, message: ERRORS_UTILS.USERS.NO_USER_OR_PASSWORD })
     }
 }
 
-const githubLogin = async (accessToken, refreshToken, profile, done) => {
-    try {
 
-        const githubEmail = profile.emails?.[0].value
-
-        if (!githubEmail) return done(null, false)
-
-        const user = await UserDao.getOneUser({ email: githubEmail })
-
-        if (user) {
-            const userResponse = {
-                id: user._id,
-                email: user.email,
-                cart: user.cart
-            }
-
-            return done(null, userResponse)
-        }
-
-        const newUser = {
-            email: githubEmail,
-            name: profile._json.name,
-            lastname: "--",
-
-        }
-
-        const createUser = await UserDao.saveUser(newUser)
-
-        const userResponse = {
-            id: createUser._id,
-            email: createUser.email,
-            cart: createUser.cart
-        }
-
-        res.redirect('welcome', {})
-        done(null, userResponse)
-
-    } catch (error) {
-        res.render('/api/auth/login-error')
-        logger.error(`error from middlewares/passportAuth - GithubStrategy`)
-        console.log(`error from middlewares/passportAuth - GithubStrategy`)
-        done(error)
-    }
-
-}
-
-const githubUser = async (req, res) => {
-    res.send(req.user)
-}
-
-
-export const AuthControllers = { signUp, login, githubLogin, githubUser }
+export const AuthControllers = { signUp, login, deleteUser }

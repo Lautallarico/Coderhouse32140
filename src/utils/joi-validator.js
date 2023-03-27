@@ -10,4 +10,9 @@ const product = joi.object({
     timestamp: joi.string().required(),
 })
 
-export const JOI_VALIDATOR = { product }
+const message = joi.object({
+    text: joi.string().min(1).max(200).required(),
+    timestamp: joi.string().required(),
+})
+
+export const JOI_VALIDATOR = { product, message }

@@ -1,0 +1,20 @@
+paths:
+  /api/messages:
+    post:
+      summary: Creemos un Mensaje
+      description: Ruta utilizada para crear un mensaje
+      tags: 
+        - API Messages
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              ref: '#/components/requestBodies/NewMessage'
+              example:
+                text: Hola como estas
+      responses:
+        "200":
+          description: "El mensaje fue enviado con éxito"
+        "400":
+          description: "No pudimos enviar el mensaje"

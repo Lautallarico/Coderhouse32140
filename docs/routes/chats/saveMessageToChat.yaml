@@ -1,0 +1,27 @@
+paths:
+  /api/chats/{_id}/messages:
+    post:
+      summary: Agreguemos mensajes al chat
+      description: Ruta utilizada para agregar un mensaje al Chat
+      tags: 
+        - API Chats
+      parameters:
+      - name: _id
+        in: path
+        description: ID del chat donde se van a guardar los mensajes
+        required: true
+        type: string
+        example: 64221ca064b3d263fbf863d7
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              ref: '#/components/requestBodies/NewMessage'
+              example:
+                messageId: 64220f7eef242ba7a595e125
+      responses:
+        "200":
+          description: "Chat actualizado correctamente"
+        "404":
+          description: "Parametros no válidos"

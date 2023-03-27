@@ -13,8 +13,8 @@ paths:
             schema:
               ref: '#/components/requestBodies/NewUser'
               example:
-                email: pepe@pepe
-                password: pepe123
+                email: lautaro@tallarico.com
+                password: "234567"
       responses:
         '200':
           description: Sesión iniciada correctamente

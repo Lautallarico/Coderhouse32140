@@ -1,0 +1,23 @@
+#Message
+components:
+  schemas:
+    Message:
+      type: object
+      required: 
+        - _id
+        - text
+        - timestamp
+      properties:
+        _id:
+          type: ObjectId
+          description: ID autogenerado
+        text:
+          type: string
+          description: Mensaje que se envia
+        timestamp:
+          type: string
+          description: Fecha de generacion del mensaje
+      example:
+        _id: 640e18353da5abe3c55fef04
+        text: Hola como estas
+        timestamp: 12/03/2023 03:21:41

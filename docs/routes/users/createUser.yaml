@@ -10,7 +10,15 @@ paths:
         content:
           application/json:
             schema:
-              $ref: '#/components/requestBodies/NewUser'
+              ref: '#/components/requestBodies/NewUser'
+              example:
+                name: "Lautaro"
+                lastname: "Tallarico"
+                email: "lautaro@tallarico.com"
+                password: "234567"
+                adress: "calle falsa 123"
+                age: 35
+                celPhone: 18658496
       responses:
         "200":
           description: "Usuario creado"

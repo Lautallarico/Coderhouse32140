@@ -6,6 +6,7 @@ import { MariaDBService, SQLiteService } from '../services/index.js'
 const CART_FILENAME = 'carts'
 const PRODUCTS_FILENAME = 'products'
 const MESSAGES_FILENAME = 'messages'
+const CHATS_FILENAME = 'chats'
 const MARIA_DB = MariaDBService
 const SQL_LITE = SQLiteService
 
@@ -19,7 +20,8 @@ const config = {
         filesystem: {
             CART_FILENAME,
             PRODUCTS_FILENAME,
-            MESSAGES_FILENAME
+            MESSAGES_FILENAME,
+            CHATS_FILENAME
         },
         mongo: {
             url: process.env.MONGO_DB_URL,
