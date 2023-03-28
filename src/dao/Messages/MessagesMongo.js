@@ -1,6 +1,6 @@
 import { ContainerMongoDB } from "../../container/index.js";
 import { MessagesModel } from "../../models/index.js";
-// import logger from '../../loggers/loggers.js'
+import logger from '../../loggers/loggers.js'
 
 export class MessagesMongo extends ContainerMongoDB {
 
@@ -47,21 +47,5 @@ export class MessagesMongo extends ContainerMongoDB {
             logger.error(`error in getMessageById-MessagesMongo - Error: `, error)
         }
     }
-
-    // async updateProductById(id, newData) {
-    //     try {
-    //         return await super.updateById(id, newData)
-    //     } catch (error) {
-    //         logger.error(`error in updateProductById-ProductMongo - Error: `, error)
-    //     }
-    // }
-
-    // async deleteProductById(id) {
-    //     try {
-    //         return await super.deleteById(id)
-    //     } catch (error) {
-    //         logger.error(`error in deleteProductById-ProductMongo - Error: `, error)
-    //     }
-    // }
 
 }

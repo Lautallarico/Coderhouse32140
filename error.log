@@ -1854,3 +1854,7 @@
 {"level":30,"time":1679959118161,"pid":2128,"hostname":"Lautaro","msg":"http://localhost:8080/"}
 {"level":30,"time":1679959118161,"pid":2128,"hostname":"Lautaro","msg":"No es un cluster"}
 {"level":30,"time":1679959118161,"pid":2128,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}
+{"level":30,"time":1679959771893,"pid":10900,"hostname":"Lautaro","msg":"Connection with MongoDB succesful"}
+{"level":30,"time":1679959772170,"pid":10900,"hostname":"Lautaro","msg":"http://localhost:8080/"}
+{"level":30,"time":1679959772170,"pid":10900,"hostname":"Lautaro","msg":"No es un cluster"}
+{"level":30,"time":1679959772170,"pid":10900,"hostname":"Lautaro","msg":"Server inicializado en el puerto 8080 - Desafio 25 - Entrega de proyecto final"}

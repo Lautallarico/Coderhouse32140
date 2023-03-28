@@ -1,6 +1,6 @@
 import { ContainerMongoDB } from "../../container/index.js";
 import { ChatModel } from "../../models/index.js";
-// import logger from '../../loggers/loggers.js'
+import logger from '../../loggers/loggers.js'
 
 export class ChatsMongo extends ContainerMongoDB {
 
@@ -22,22 +22,6 @@ export class ChatsMongo extends ContainerMongoDB {
         ChatsMongo.instance = this
         return this
     }
-
-    // async getCartById(id) {
-    //     try {
-    //         return await this.model.findById(id).populate('products')
-    //     } catch (error) {
-    //         logger.error(`error in getCartById-CartsMongo - Error: `, error)
-    //     }
-    // }
-
-    // async getAllCarts() {
-    //     try {
-    //         return await super.getAll()
-    //     } catch (error) {
-    //         logger.error(`error in getAllCarts-CartsMongo - Error: `, error)
-    //     }
-    // }
 
     async saveChat(element) {
         try {
@@ -63,11 +47,4 @@ export class ChatsMongo extends ContainerMongoDB {
         }
     }
 
-    // async deleteCartById(id) {
-    //     try {
-    //         return await super.deleteById(id)
-    //     } catch (error) {
-    //         logger.error(`error in deleteCartById-CartsMongo - Error: `, error)
-    //     }
-    // }
 }
