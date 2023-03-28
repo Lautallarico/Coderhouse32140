@@ -18,6 +18,9 @@ paths:
           content: 
             application/json:
               schema:
-                $ref: '#/components/schemas/Chat'
+                ref: '#/components/schemas/Chat'
+                example:
+                  message: "Hola como estas"
+                  timestamp: "27/03/2023 06:49:50"
         "404":
           description: "Chat no encontrado"

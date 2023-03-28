@@ -53,9 +53,22 @@ const messagesInChat = async (req, res) => {
         if (!chat) return res.status(404).send({ error: true, message: ERRORS_UTILS.MESSAGES.NO_CHAT })
 
         const messagesInChat = await chat.messages
-        // console.log(messagesInChat);
+        const messagesInChatResponse = messagesInChat.map(msg => msg._id)
 
-        res.status(200).send({ success: true, messagesInChat: messagesInChat })
+
+        let arrayMessage = []
+        for (let i = 0; i < messagesInChat.length; i++) {
+
+            const messagesResponse = await MessagesDao.getMessageById(messagesInChatResponse[i])
+            const messagePush = {
+                message: messagesResponse.text,
+                timestamp: messagesResponse.timestamp
+            }
+            arrayMessage.push(messagePush)
+
+        }
+
+        res.status(200).send({ success: true, messagesInChat: arrayMessage })
 
     } catch (error) {
 

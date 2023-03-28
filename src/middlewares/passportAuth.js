@@ -37,11 +37,16 @@ const init = () => {
                 return done(null, false, { message: "Password or user not valid user" })
             }
 
-            return done(null, user)
+            const userResponse = {
+                email: user.email,
+                name: user.name,
+                lastname: user.lastname
+            }
+            return done(null, userResponse)
 
 
         } catch (error) {
-            
+
             logger.error(`error from middlewares/passportAuth - LocalStrategy`, error)
             return done(null, error, { message: "error catch" })
         }

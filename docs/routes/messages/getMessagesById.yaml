@@ -18,6 +18,10 @@ paths:
           content: 
             application/json:
               schema:
-                $ref: '#/components/schemas/Message'
+                ref: '#/components/schemas/Message'
+                example:
+                  success: true
+                  data: "todo bien vos?"
+                  message: "Mensaje localizado"
         "404":
           description: "Mensaje no encontrado"

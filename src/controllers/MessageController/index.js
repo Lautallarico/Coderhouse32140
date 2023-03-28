@@ -7,7 +7,8 @@ const getAllMessages = async (req, res) => {
     try {
 
         const allMesagges = await MessagesDao.getAllMessages()
-        res.status(200).send({ success: true, data: allMesagges })
+        const messageResponse = allMesagges.map(msg => msg.text)
+        res.status(200).send({ success: true, data: messageResponse })
 
     } catch (error) {
 
@@ -27,7 +28,9 @@ const getMessagesById = async (req, res) => {
             return res.status(404).send({ success: false, data: undefined, message: ERRORS_UTILS.MESSAGES.NO_MESSAGE })
         }
 
-        res.status(200).send({ success: true, data: message, message: "Mensaje localizado" })
+        const messageResponse = message.text
+
+        res.status(200).send({ success: true, data: messageResponse, message: "Mensaje localizado" })
 
     } catch (error) {
         logger.error('error desde el getMessagesById: ' + error)
